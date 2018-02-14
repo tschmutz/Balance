@@ -25,7 +25,7 @@ Balance will have a simple one page layout that displays all the necessary info 
 
 
 
-<img src='images/Screen Shot 2018-02-12 at 7.39.47 AM.png' width=500px>
+<img src='images/Screen Shot 2018-02-12 at 7.39.47 AM.png' width=1000px>
 
 
 
