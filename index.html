@@ -4,12 +4,15 @@
     <meta charset="utf-8" />
     <title>Balance</title>
     <style>
-    	* { padding: 0; margin: 0; }
-    	canvas { background: lightblue; display: block; margin: auto;; }
+      * { padding: 0; margin: 0; }
+      canvas { background: url("brick.jpg");
+       display: block; margin: 0 auto; }
     </style>
+    <link rel="stylesheet" type="text/css" href="css/balance.css"/>
 </head>
 <body>
   <div id='MainScreen'>
+    <h1 id='score'></h1>
     <canvas id="Canvas" width="1000" height="650"></canvas>
     <script src="./lib/keymaster.js"></script>
     <script src="./lib/bundle.js"></script>
